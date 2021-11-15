@@ -1,0 +1,4 @@
+total 8
+-rw-r--r-- 1 chino chino 10 Nov 15 11:45 README.md
+-rw-r--r-- 1 chino chino 16 Nov 15 11:45 adudu.py
+-rw-r--r-- 1 chino chino  0 Nov 15 11:45 au.txt
